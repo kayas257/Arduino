@@ -1,10 +1,13 @@
+//
+//Author Kayas Ahmed
+//
 #include <SoftwareSerial.h>
 #include <dht.h>
 #define dht_apin A0 // Analog Pin sensor is connected to
 #define RX 10
 #define TX 11
-String AP = "berkyboyz";       // CHANGE ME
-String PASS = "taklaharami"; // CHANGE ME
+String AP = "xxxxxx";       // CHANGE ME
+String PASS = "xxxxxxx"; // CHANGE ME
 String API = "PWPIEG9GXJSKADGC";   // CHANGE ME
 String HOST = "api.thingspeak.com";
 String PORT = "80";
