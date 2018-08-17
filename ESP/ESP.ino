@@ -8,7 +8,7 @@
 #define TX 11
 String AP = "xxxxxx";       // CHANGE ME
 String PASS = "xxxxxxx"; // CHANGE ME
-String API = "PWPIEG9GXJSKADGC";   // CHANGE ME
+String API = "xxxxxxxxx";   // CHANGE ME
 String HOST = "api.thingspeak.com";
 String PORT = "80";
 String field = "field";
